@@ -12,7 +12,7 @@ class App extends Component {
       <Provider store={createStore()}>
         <View>
           <Text>
-            Hello!
+            Hello There!
           </Text>
         </View>
       </Provider>
